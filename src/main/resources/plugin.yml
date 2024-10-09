@@ -2,3 +2,4 @@ name: ProxyCheck
 version: '1.0-SNAPSHOT'
 main: ru.AMGewka.proxyCheck.ProxyCheck
 api-version: '1.13'
+author: 'AMGewka'
